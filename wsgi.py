@@ -1,0 +1,1 @@
+from mldeploy import app
